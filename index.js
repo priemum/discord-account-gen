@@ -11,7 +11,7 @@
   const {fetch} = require('cross-fetch')
   const fs = require('fs')
   const { Console } = require('console')
-
+           
   // Settings
   const captchakey = ''
   const PROXY_ADDR = ''
